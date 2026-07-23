@@ -1,6 +1,6 @@
 ## bunhine
 
-Solo developer. I build AI tooling and write essays — the code lives here, the rest at [beachcombers.co.kr](https://beachcombers.co.kr).
+I build AI tooling and write essays — the code lives here, the rest at [beachcombers.co.kr](https://beachcombers.co.kr).
 
 ### what i'm building
 
@@ -11,7 +11,7 @@ Solo developer. I build AI tooling and write essays — the code lives here, the
 
 ### stack
 
-Python · Rust · TypeScript · Java — usually somewhere near an LLM.
+Python · Rust · TypeScript · Java — usually somewhere near an LLM. and Embedded System
 
 <br>
 

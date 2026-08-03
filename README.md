@@ -19,5 +19,5 @@ Python · Rust · TypeScript · Java — usually somewhere near an LLM. and Embe
 
 <a href="https://www.ioreum.com">
   <img src="https://www.ioreum.com/api/widget/today.png?v=card&k=fe00b3f9-b2cc-4aca-a1a2-8fc91f3e6d70"
-       alt="오늘의 운세 — 이오름">
+       alt="오늘의 운세 — 이오름" width=680>
 </a>
